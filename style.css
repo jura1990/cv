@@ -1,0 +1,45 @@
+body{
+  background-color: #2C3E50;
+
+}
+.moto{
+  height:  400px;
+  width:   400px;
+  margin-left: 800px;
+  background-image:url(moto.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+h1 span {
+
+  background-color: white;
+
+}
+h3{
+  background-color: green;
+}
+
+
+.container-photo{
+  border: 1px solid;
+  box-shadow: 2px 2px 2px 2px;
+  width: 210px;
+  height: 210px;
+  background-color:#2C3E51 ;
+
+}
+.main_block{
+  margin-top: 102px;
+  list-style: none;
+
+}
+
+.main_block ul li {
+  line-height: 5px;
+}
+
+.nav_item{
+   line-height: 10px;
+}
